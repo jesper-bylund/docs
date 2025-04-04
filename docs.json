@@ -99,4 +99,9 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
+  "integrations": {
+    "fathom": {
+        "siteId": "VHWMHPDZ"
+    }
+}
 }
